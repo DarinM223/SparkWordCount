@@ -1,0 +1,4 @@
+target/* linguist-vendored
+project/* linguist-vendored
+.idea/* linguist-vendored
+counts/* linguist-vendored
